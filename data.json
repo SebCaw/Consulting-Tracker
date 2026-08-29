@@ -22,13 +22,23 @@
       "historicalCycles": [
         {
           "year": 2025,
-          "openedMonth": 9,
-          "closedMonth": 10
+          "openedMonth": 11,
+          "closedMonth": 1,
+          "openedDate": "2025-11-01",
+          "closedDate": "2026-01-31",
+          "rolling": false,
+          "confidence": "confirmed",
+          "source": "https://www.pwc.co.uk/careers/early-careers/entry-level/flying-start.html"
         },
         {
           "year": 2024,
-          "openedMonth": 9,
-          "closedMonth": 10
+          "openedMonth": 11,
+          "closedMonth": 1,
+          "openedDate": null,
+          "closedDate": "2025-01-31",
+          "rolling": false,
+          "confidence": "confirmed",
+          "source": "https://www.pwc.co.uk/careers/early-careers/entry-level/flying-start.html"
         }
       ],
       "programs": [
@@ -135,12 +145,22 @@
         {
           "year": 2025,
           "openedMonth": 9,
-          "closedMonth": 11
+          "closedMonth": 12,
+          "openedDate": null,
+          "closedDate": null,
+          "rolling": true,
+          "confidence": "confirmed",
+          "source": "https://uk.prosple.com/graduate-employers/deloitte-uk/jobs-internships/brightstart-higher-apprenticeship"
         },
         {
           "year": 2024,
           "openedMonth": 9,
-          "closedMonth": 11
+          "closedMonth": 12,
+          "openedDate": null,
+          "closedDate": null,
+          "rolling": true,
+          "confidence": "confirmed",
+          "source": "https://uk.prosple.com/graduate-employers/deloitte-uk/jobs-internships/brightstart-higher-apprenticeship"
         }
       ],
       "programs": [
@@ -196,12 +216,22 @@
         {
           "year": 2025,
           "openedMonth": 9,
-          "closedMonth": 10
+          "closedMonth": 11,
+          "openedDate": null,
+          "closedDate": null,
+          "rolling": false,
+          "confidence": "estimated",
+          "source": null
         },
         {
           "year": 2024,
           "openedMonth": 9,
-          "closedMonth": 10
+          "closedMonth": 11,
+          "openedDate": null,
+          "closedDate": null,
+          "rolling": false,
+          "confidence": "estimated",
+          "source": null
         }
       ],
       "programs": [
@@ -257,12 +287,22 @@
         {
           "year": 2025,
           "openedMonth": 9,
-          "closedMonth": 10
+          "closedMonth": 12,
+          "openedDate": null,
+          "closedDate": null,
+          "rolling": true,
+          "confidence": "confirmed",
+          "source": "https://www.bestapprenticeships.com/knowledge-base/when-do-kpmg-apprenticeship-applications-open/"
         },
         {
           "year": 2024,
           "openedMonth": 9,
-          "closedMonth": 10
+          "closedMonth": 12,
+          "openedDate": null,
+          "closedDate": null,
+          "rolling": true,
+          "confidence": "confirmed",
+          "source": "https://www.bestapprenticeships.com/knowledge-base/when-do-kpmg-apprenticeship-applications-open/"
         }
       ],
       "programs": [
@@ -369,12 +409,22 @@
         {
           "year": 2025,
           "openedMonth": 9,
-          "closedMonth": 11
+          "closedMonth": 11,
+          "openedDate": null,
+          "closedDate": null,
+          "rolling": false,
+          "confidence": "estimated",
+          "source": null
         },
         {
           "year": 2024,
           "openedMonth": 9,
-          "closedMonth": 11
+          "closedMonth": 11,
+          "openedDate": null,
+          "closedDate": null,
+          "rolling": false,
+          "confidence": "estimated",
+          "source": null
         }
       ],
       "programs": [
