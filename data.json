@@ -1,531 +1,525 @@
 {
-    "meta":  {
-                 "lastUpdated":  "2026-08-29T22:27:06Z",
-                 "version":  4,
-                 "seenVacancyIds":  [
-
-                                    ],
-                 "newSinceLastScrape":  [
-
-                                        ]
-             },
-    "interestListings":  [
-
-                         ],
-    "companies":  [
-                      {
-                          "id":  "pwc",
-                          "name":  "PwC",
-                          "sector":  "consulting",
-                          "color":  "#d04a02",
-                          "employerNameVariants":  [
-                                                       "PricewaterhouseCoopers LLP",
-                                                       "PricewaterhouseCoopers",
-                                                       "PwC"
-                                                   ],
-                          "careerUrl":  "https://www.pwc.co.uk/careers/student-careers/school-careers/our-programmes.html",
-                          "govSearchUrl":  "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=PwC\u0026levelIds=6\u0026distanceType=England",
-                          "historicalCycles":  [
-                                                   {
-                                                       "year":  2025,
-                                                       "openedMonth":  11,
-                                                       "closedMonth":  1,
-                                                       "openedDate":  "2025-11-01",
-                                                       "closedDate":  "2026-01-31",
-                                                       "rolling":  false,
-                                                       "confidence":  "confirmed",
-                                                       "source":  "https://www.pwc.co.uk/careers/early-careers/entry-level/flying-start.html"
-                                                   },
-                                                   {
-                                                       "year":  2024,
-                                                       "openedMonth":  11,
-                                                       "closedMonth":  1,
-                                                       "openedDate":  null,
-                                                       "closedDate":  "2025-01-31",
-                                                       "rolling":  false,
-                                                       "confidence":  "confirmed",
-                                                       "source":  "https://www.pwc.co.uk/careers/early-careers/entry-level/flying-start.html"
-                                                   }
-                                               ],
-                          "programs":  [
-                                           {
-                                               "id":  "pwc_consulting",
-                                               "name":  "Consulting School and College Leaver Programme",
-                                               "standard":  "Level 6",
-                                               "location":  "Multiple UK",
-                                               "salary":  null,
-                                               "duration":  null,
-                                               "customerFacing":  "client",
-                                               "nameConfidence":  "official",
-                                               "sourceUrl":  "https://www.pwc.co.uk/careers/early-careers/entry-level/entry-level-programmes.html",
-                                               "status":  "not_open",
-                                               "closingDate":  null,
-                                               "applyUrl":  null,
-                                               "govVacancyId":  null,
-                                               "firstSeen":  null,
-                                               "lastSeen":  null
-                                           },
-                                           {
-                                               "id":  "pwc_audit",
-                                               "name":  "Audit School and College Leaver Programme",
-                                               "standard":  "Level 6",
-                                               "location":  "Multiple UK",
-                                               "salary":  null,
-                                               "duration":  null,
-                                               "customerFacing":  "internal",
-                                               "nameConfidence":  "official",
-                                               "sourceUrl":  "https://www.pwc.co.uk/careers/early-careers/entry-level/entry-level-programmes.html",
-                                               "status":  "not_open",
-                                               "closingDate":  null,
-                                               "applyUrl":  null,
-                                               "govVacancyId":  null,
-                                               "firstSeen":  null,
-                                               "lastSeen":  null
-                                           },
-                                           {
-                                               "id":  "pwc_tax",
-                                               "name":  "Tax School and College Leaver Programme",
-                                               "standard":  "Level 6",
-                                               "location":  "Multiple UK",
-                                               "salary":  null,
-                                               "duration":  null,
-                                               "customerFacing":  "client",
-                                               "nameConfidence":  "official",
-                                               "sourceUrl":  "https://www.pwc.co.uk/careers/early-careers/entry-level/entry-level-programmes.html",
-                                               "status":  "not_open",
-                                               "closingDate":  null,
-                                               "applyUrl":  null,
-                                               "govVacancyId":  null,
-                                               "firstSeen":  null,
-                                               "lastSeen":  null
-                                           },
-                                           {
-                                               "id":  "pwc_operations",
-                                               "name":  "Operations School and College Leaver Programme",
-                                               "standard":  "Level 6",
-                                               "location":  "Multiple UK",
-                                               "salary":  null,
-                                               "duration":  null,
-                                               "customerFacing":  "internal",
-                                               "nameConfidence":  "official",
-                                               "sourceUrl":  "https://www.pwc.co.uk/careers/early-careers/entry-level/entry-level-programmes.html",
-                                               "status":  "not_open",
-                                               "closingDate":  null,
-                                               "applyUrl":  null,
-                                               "govVacancyId":  null,
-                                               "firstSeen":  null,
-                                               "lastSeen":  null
-                                           },
-                                           {
-                                               "id":  "pwc_flyingstart",
-                                               "name":  "Flying Start Accounting Degree",
-                                               "standard":  "Level 6",
-                                               "location":  "London / Manchester / Newcastle / Nottingham / Reading",
-                                               "salary":  null,
-                                               "duration":  "4 years",
-                                               "customerFacing":  "internal",
-                                               "nameConfidence":  "official",
-                                               "sourceUrl":  "https://www.pwc.co.uk/careers/early-careers/entry-level/flying-start.html",
-                                               "status":  "not_open",
-                                               "closingDate":  null,
-                                               "applyUrl":  null,
-                                               "govVacancyId":  null,
-                                               "firstSeen":  null,
-                                               "lastSeen":  null
-                                           }
-                                       ],
-                          "siteCheck":  {
-                                            "checkedAt":  "2026-08-29T23:26:58Z",
-                                            "reachable":  true,
-                                            "httpStatus":  200,
-                                            "mentions":  1,
-                                            "openSignal":  false,
-                                            "note":  ""
-                                        }
-                      },
-                      {
-                          "id":  "deloitte",
-                          "name":  "Deloitte",
-                          "sector":  "consulting",
-                          "color":  "#86bc25",
-                          "employerNameVariants":  [
-                                                       "Deloitte LLP",
-                                                       "Deloitte UK",
-                                                       "Deloitte"
-                                                   ],
-                          "careerUrl":  "https://www.deloitte.com/uk/en/careers/early-careers.html",
-                          "govSearchUrl":  "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=Deloitte\u0026levelIds=6\u0026distanceType=England",
-                          "historicalCycles":  [
-                                                   {
-                                                       "year":  2025,
-                                                       "openedMonth":  9,
-                                                       "closedMonth":  12,
-                                                       "openedDate":  null,
-                                                       "closedDate":  null,
-                                                       "rolling":  true,
-                                                       "confidence":  "confirmed",
-                                                       "source":  "https://uk.prosple.com/graduate-employers/deloitte-uk/jobs-internships/brightstart-higher-apprenticeship"
-                                                   },
-                                                   {
-                                                       "year":  2024,
-                                                       "openedMonth":  9,
-                                                       "closedMonth":  12,
-                                                       "openedDate":  null,
-                                                       "closedDate":  null,
-                                                       "rolling":  true,
-                                                       "confidence":  "confirmed",
-                                                       "source":  "https://uk.prosple.com/graduate-employers/deloitte-uk/jobs-internships/brightstart-higher-apprenticeship"
-                                                   }
-                                               ],
-                          "programs":  [
-                                           {
-                                               "id":  "deloitte_consulting",
-                                               "name":  "Consulting BrightStart Higher Apprenticeship",
-                                               "standard":  "Higher Apprenticeship",
-                                               "location":  "Multiple UK",
-                                               "salary":  null,
-                                               "duration":  null,
-                                               "customerFacing":  "client",
-                                               "nameConfidence":  "official",
-                                               "sourceUrl":  "https://www.brightnetwork.co.uk/graduate-jobs/deloitte/consulting-bright-start-higher-apprenticeship-2026",
-                                               "status":  "not_open",
-                                               "closingDate":  null,
-                                               "applyUrl":  null,
-                                               "govVacancyId":  null,
-                                               "firstSeen":  null,
-                                               "lastSeen":  null
-                                           },
-                                           {
-                                               "id":  "deloitte_audit",
-                                               "name":  "Audit \u0026 Assurance BrightStart Higher Apprenticeship",
-                                               "standard":  "Higher Apprenticeship",
-                                               "location":  "Multiple UK",
-                                               "salary":  null,
-                                               "duration":  null,
-                                               "customerFacing":  "internal",
-                                               "nameConfidence":  "official",
-                                               "sourceUrl":  "https://www.brightnetwork.co.uk/graduate-jobs/deloitte/audit-assurance-bright-start-higher-apprenticeship-2026",
-                                               "status":  "not_open",
-                                               "closingDate":  null,
-                                               "applyUrl":  null,
-                                               "govVacancyId":  null,
-                                               "firstSeen":  null,
-                                               "lastSeen":  null
-                                           }
-                                       ],
-                          "siteCheck":  {
-                                            "checkedAt":  "2026-08-29T23:26:59Z",
-                                            "reachable":  true,
-                                            "httpStatus":  200,
-                                            "mentions":  1,
-                                            "openSignal":  false,
-                                            "note":  ""
-                                        }
-                      },
-                      {
-                          "id":  "ey",
-                          "name":  "EY",
-                          "sector":  "consulting",
-                          "color":  "#c9bd00",
-                          "employerNameVariants":  [
-                                                       "Ernst \u0026 Young LLP",
-                                                       "Ernst \u0026 Young",
-                                                       "EY"
-                                                   ],
-                          "careerUrl":  "https://www.ey.com/en_uk/careers/students",
-                          "govSearchUrl":  "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=EY\u0026levelIds=6\u0026distanceType=England",
-                          "historicalCycles":  [
-                                                   {
-                                                       "year":  2025,
-                                                       "openedMonth":  9,
-                                                       "closedMonth":  11,
-                                                       "openedDate":  null,
-                                                       "closedDate":  null,
-                                                       "rolling":  false,
-                                                       "confidence":  "estimated",
-                                                       "source":  null
-                                                   },
-                                                   {
-                                                       "year":  2024,
-                                                       "openedMonth":  9,
-                                                       "closedMonth":  11,
-                                                       "openedDate":  null,
-                                                       "closedDate":  null,
-                                                       "rolling":  false,
-                                                       "confidence":  "estimated",
-                                                       "source":  null
-                                                   }
-                                               ],
-                          "programs":  [
-                                           {
-                                               "id":  "ey_audit",
-                                               "name":  "Audit \u0026 Assurance",
-                                               "standard":  "Level 6",
-                                               "location":  "Multiple UK",
-                                               "salary":  null,
-                                               "duration":  "4 years",
-                                               "status":  "not_open",
-                                               "closingDate":  null,
-                                               "applyUrl":  null,
-                                               "govVacancyId":  null,
-                                               "firstSeen":  null,
-                                               "lastSeen":  null,
-                                               "customerFacing":  "internal",
-                                               "nameConfidence":  "unconfirmed",
-                                               "sourceUrl":  null
-                                           },
-                                           {
-                                               "id":  "ey_consulting",
-                                               "name":  "Consulting",
-                                               "standard":  "Level 6",
-                                               "location":  "Multiple UK",
-                                               "salary":  null,
-                                               "duration":  "4 years",
-                                               "status":  "not_open",
-                                               "closingDate":  null,
-                                               "applyUrl":  null,
-                                               "govVacancyId":  null,
-                                               "firstSeen":  null,
-                                               "lastSeen":  null,
-                                               "customerFacing":  "client",
-                                               "nameConfidence":  "unconfirmed",
-                                               "sourceUrl":  null
-                                           }
-                                       ],
-                          "siteCheck":  {
-                                            "checkedAt":  "2026-08-29T23:27:00Z",
-                                            "reachable":  true,
-                                            "httpStatus":  200,
-                                            "mentions":  89,
-                                            "openSignal":  false,
-                                            "note":  ""
-                                        }
-                      },
-                      {
-                          "id":  "kpmg",
-                          "name":  "KPMG",
-                          "sector":  "consulting",
-                          "color":  "#00338d",
-                          "employerNameVariants":  [
-                                                       "KPMG LLP",
-                                                       "KPMG UK",
-                                                       "KPMG"
-                                                   ],
-                          "careerUrl":  "https://www.kpmgcareers.co.uk/apprentice/",
-                          "govSearchUrl":  "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=KPMG\u0026levelIds=6\u0026distanceType=England",
-                          "historicalCycles":  [
-                                                   {
-                                                       "year":  2025,
-                                                       "openedMonth":  9,
-                                                       "closedMonth":  12,
-                                                       "openedDate":  null,
-                                                       "closedDate":  null,
-                                                       "rolling":  true,
-                                                       "confidence":  "confirmed",
-                                                       "source":  "https://www.bestapprenticeships.com/knowledge-base/when-do-kpmg-apprenticeship-applications-open/"
-                                                   },
-                                                   {
-                                                       "year":  2024,
-                                                       "openedMonth":  9,
-                                                       "closedMonth":  12,
-                                                       "openedDate":  null,
-                                                       "closedDate":  null,
-                                                       "rolling":  true,
-                                                       "confidence":  "confirmed",
-                                                       "source":  "https://www.bestapprenticeships.com/knowledge-base/when-do-kpmg-apprenticeship-applications-open/"
-                                                   }
-                                               ],
-                          "programs":  [
-                                           {
-                                               "id":  "kpmg_consulting",
-                                               "name":  "Consulting Apprenticeships",
-                                               "standard":  "Level 6",
-                                               "location":  "Multiple UK",
-                                               "salary":  null,
-                                               "duration":  null,
-                                               "customerFacing":  "client",
-                                               "nameConfidence":  "official",
-                                               "sourceUrl":  "https://www.kpmgcareers.co.uk/apprentice/",
-                                               "status":  "not_open",
-                                               "closingDate":  null,
-                                               "applyUrl":  null,
-                                               "govVacancyId":  null,
-                                               "firstSeen":  null,
-                                               "lastSeen":  null
-                                           },
-                                           {
-                                               "id":  "kpmg_audit",
-                                               "name":  "Audit Apprenticeships",
-                                               "standard":  "Level 6",
-                                               "location":  "Multiple UK",
-                                               "salary":  null,
-                                               "duration":  null,
-                                               "customerFacing":  "internal",
-                                               "nameConfidence":  "official",
-                                               "sourceUrl":  "https://www.kpmgcareers.co.uk/apprentice/",
-                                               "status":  "not_open",
-                                               "closingDate":  null,
-                                               "applyUrl":  null,
-                                               "govVacancyId":  null,
-                                               "firstSeen":  null,
-                                               "lastSeen":  null
-                                           },
-                                           {
-                                               "id":  "kpmg_taxlaw",
-                                               "name":  "Tax \u0026 Law Apprenticeships",
-                                               "standard":  "Level 6",
-                                               "location":  "Multiple UK",
-                                               "salary":  null,
-                                               "duration":  null,
-                                               "customerFacing":  "client",
-                                               "nameConfidence":  "official",
-                                               "sourceUrl":  "https://www.kpmgcareers.co.uk/apprentice/",
-                                               "status":  "not_open",
-                                               "closingDate":  null,
-                                               "applyUrl":  null,
-                                               "govVacancyId":  null,
-                                               "firstSeen":  null,
-                                               "lastSeen":  null
-                                           },
-                                           {
-                                               "id":  "kpmg_tech",
-                                               "name":  "Technology \u0026 Engineering Apprenticeships",
-                                               "standard":  "Level 6",
-                                               "location":  "Multiple UK",
-                                               "salary":  null,
-                                               "duration":  null,
-                                               "customerFacing":  "internal",
-                                               "nameConfidence":  "official",
-                                               "sourceUrl":  "https://www.kpmgcareers.co.uk/apprentice/",
-                                               "status":  "not_open",
-                                               "closingDate":  null,
-                                               "applyUrl":  null,
-                                               "govVacancyId":  null,
-                                               "firstSeen":  null,
-                                               "lastSeen":  null
-                                           },
-                                           {
-                                               "id":  "kpmg_business",
-                                               "name":  "KPMG Business Services Apprenticeship",
-                                               "standard":  "Level 6",
-                                               "location":  "Multiple UK",
-                                               "salary":  null,
-                                               "duration":  "2 years",
-                                               "customerFacing":  "internal",
-                                               "nameConfidence":  "official",
-                                               "sourceUrl":  "https://www.kpmgcareers.co.uk/apprentice/",
-                                               "status":  "not_open",
-                                               "closingDate":  null,
-                                               "applyUrl":  null,
-                                               "govVacancyId":  null,
-                                               "firstSeen":  null,
-                                               "lastSeen":  null
-                                           }
-                                       ],
-                          "siteCheck":  {
-                                            "checkedAt":  "2026-08-29T23:27:02Z",
-                                            "reachable":  true,
-                                            "httpStatus":  200,
-                                            "mentions":  61,
-                                            "openSignal":  false,
-                                            "note":  ""
-                                        }
-                      },
-                      {
-                          "id":  "accenture",
-                          "name":  "Accenture",
-                          "sector":  "consulting",
-                          "color":  "#a100ff",
-                          "employerNameVariants":  [
-                                                       "Accenture (UK) Limited",
-                                                       "Accenture UK",
-                                                       "Accenture"
-                                                   ],
-                          "careerUrl":  "https://www.accenture.com/gb-en/careers/local/apprenticeships",
-                          "govSearchUrl":  "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=Accenture\u0026levelIds=6\u0026distanceType=England",
-                          "historicalCycles":  [
-                                                   {
-                                                       "year":  2025,
-                                                       "openedMonth":  9,
-                                                       "closedMonth":  11,
-                                                       "openedDate":  null,
-                                                       "closedDate":  null,
-                                                       "rolling":  false,
-                                                       "confidence":  "estimated",
-                                                       "source":  null
-                                                   },
-                                                   {
-                                                       "year":  2024,
-                                                       "openedMonth":  9,
-                                                       "closedMonth":  11,
-                                                       "openedDate":  null,
-                                                       "closedDate":  null,
-                                                       "rolling":  false,
-                                                       "confidence":  "estimated",
-                                                       "source":  null
-                                                   }
-                                               ],
-                          "programs":  [
-                                           {
-                                               "id":  "accenture_chartered",
-                                               "name":  "Chartered Manager Apprenticeship",
-                                               "standard":  "Level 6 - BSc",
-                                               "location":  "London",
-                                               "salary":  null,
-                                               "duration":  null,
-                                               "customerFacing":  "client",
-                                               "nameConfidence":  "official",
-                                               "sourceUrl":  "https://www.accenture.com/gb-en/careers/local/apprenticeships",
-                                               "status":  "not_open",
-                                               "closingDate":  null,
-                                               "applyUrl":  null,
-                                               "govVacancyId":  null,
-                                               "firstSeen":  null,
-                                               "lastSeen":  null
-                                           },
-                                           {
-                                               "id":  "accenture_dts",
-                                               "name":  "Digital \u0026 Technology Solutions Professional Apprenticeship",
-                                               "standard":  "Level 6",
-                                               "location":  "London / Multiple UK",
-                                               "salary":  null,
-                                               "duration":  null,
-                                               "customerFacing":  "internal",
-                                               "nameConfidence":  "official",
-                                               "sourceUrl":  "https://www.accenture.com/gb-en/careers/local/apprenticeships",
-                                               "status":  "not_open",
-                                               "closingDate":  null,
-                                               "applyUrl":  null,
-                                               "govVacancyId":  null,
-                                               "firstSeen":  null,
-                                               "lastSeen":  null
-                                           },
-                                           {
-                                               "id":  "accenture_ai",
-                                               "name":  "Level 6 AI Engineer Apprenticeship",
-                                               "standard":  "Level 6",
-                                               "location":  "London",
-                                               "salary":  null,
-                                               "duration":  null,
-                                               "customerFacing":  "internal",
-                                               "nameConfidence":  "official",
-                                               "sourceUrl":  "https://www.accenture.com/gb-en/careers/local/apprenticeships",
-                                               "status":  "not_open",
-                                               "closingDate":  null,
-                                               "applyUrl":  null,
-                                               "govVacancyId":  null,
-                                               "firstSeen":  null,
-                                               "lastSeen":  null
-                                           }
-                                       ],
-                          "siteCheck":  {
-                                            "checkedAt":  "2026-08-29T23:27:03Z",
-                                            "reachable":  true,
-                                            "httpStatus":  200,
-                                            "mentions":  54,
-                                            "openSignal":  false,
-                                            "note":  ""
-                                        }
-                      }
-                  ]
+  "meta": {
+    "lastUpdated": "2026-08-29T22:27:06Z",
+    "version": 4,
+    "seenVacancyIds": [],
+    "newSinceLastScrape": []
+  },
+  "interestListings": [],
+  "companies": [
+    {
+      "id": "pwc",
+      "name": "PwC",
+      "sector": "consulting",
+      "color": "#d04a02",
+      "employerNameVariants": [
+        "PricewaterhouseCoopers LLP",
+        "PricewaterhouseCoopers",
+        "PwC"
+      ],
+      "careerUrl": "https://www.pwc.co.uk/careers/student-careers/school-careers/our-programmes.html",
+      "govSearchUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=PwC&levelIds=6&distanceType=England",
+      "historicalCycles": [
+        {
+          "year": 2025,
+          "openedMonth": 11,
+          "closedMonth": 1,
+          "openedDate": "2025-11-01",
+          "closedDate": "2026-01-31",
+          "rolling": false,
+          "confidence": "confirmed",
+          "source": "https://www.pwc.co.uk/careers/early-careers/entry-level/flying-start.html"
+        },
+        {
+          "year": 2024,
+          "openedMonth": 11,
+          "closedMonth": 1,
+          "openedDate": null,
+          "closedDate": "2025-01-31",
+          "rolling": false,
+          "confidence": "confirmed",
+          "source": "https://www.pwc.co.uk/careers/early-careers/entry-level/flying-start.html"
+        }
+      ],
+      "programs": [
+        {
+          "id": "pwc_consulting",
+          "name": "Consulting School and College Leaver Programme",
+          "standard": "Level 6",
+          "location": "Multiple UK",
+          "salary": null,
+          "duration": null,
+          "customerFacing": "client",
+          "nameConfidence": "official",
+          "sourceUrl": "https://www.pwc.co.uk/careers/early-careers/entry-level/entry-level-programmes.html",
+          "status": "not_open",
+          "closingDate": null,
+          "applyUrl": null,
+          "govVacancyId": null,
+          "firstSeen": null,
+          "lastSeen": null
+        },
+        {
+          "id": "pwc_audit",
+          "name": "Audit School and College Leaver Programme",
+          "standard": "Level 6",
+          "location": "Multiple UK",
+          "salary": null,
+          "duration": null,
+          "customerFacing": "internal",
+          "nameConfidence": "official",
+          "sourceUrl": "https://www.pwc.co.uk/careers/early-careers/entry-level/entry-level-programmes.html",
+          "status": "not_open",
+          "closingDate": null,
+          "applyUrl": null,
+          "govVacancyId": null,
+          "firstSeen": null,
+          "lastSeen": null
+        },
+        {
+          "id": "pwc_tax",
+          "name": "Tax School and College Leaver Programme",
+          "standard": "Level 6",
+          "location": "Multiple UK",
+          "salary": null,
+          "duration": null,
+          "customerFacing": "client",
+          "nameConfidence": "official",
+          "sourceUrl": "https://www.pwc.co.uk/careers/early-careers/entry-level/entry-level-programmes.html",
+          "status": "not_open",
+          "closingDate": null,
+          "applyUrl": null,
+          "govVacancyId": null,
+          "firstSeen": null,
+          "lastSeen": null
+        },
+        {
+          "id": "pwc_operations",
+          "name": "Operations School and College Leaver Programme",
+          "standard": "Level 6",
+          "location": "Multiple UK",
+          "salary": null,
+          "duration": null,
+          "customerFacing": "internal",
+          "nameConfidence": "official",
+          "sourceUrl": "https://www.pwc.co.uk/careers/early-careers/entry-level/entry-level-programmes.html",
+          "status": "not_open",
+          "closingDate": null,
+          "applyUrl": null,
+          "govVacancyId": null,
+          "firstSeen": null,
+          "lastSeen": null
+        },
+        {
+          "id": "pwc_flyingstart",
+          "name": "Flying Start Accounting Degree",
+          "standard": "Level 6",
+          "location": "London / Manchester / Newcastle / Nottingham / Reading",
+          "salary": null,
+          "duration": "4 years",
+          "customerFacing": "internal",
+          "nameConfidence": "official",
+          "sourceUrl": "https://www.pwc.co.uk/careers/early-careers/entry-level/flying-start.html",
+          "status": "not_open",
+          "closingDate": null,
+          "applyUrl": null,
+          "govVacancyId": null,
+          "firstSeen": null,
+          "lastSeen": null
+        }
+      ],
+      "siteCheck": {
+        "checkedAt": "2026-08-29T23:26:58Z",
+        "reachable": true,
+        "httpStatus": 200,
+        "mentions": 1,
+        "openSignal": false,
+        "note": ""
+      }
+    },
+    {
+      "id": "deloitte",
+      "name": "Deloitte",
+      "sector": "consulting",
+      "color": "#86bc25",
+      "employerNameVariants": [
+        "Deloitte LLP",
+        "Deloitte UK",
+        "Deloitte"
+      ],
+      "careerUrl": "https://www.deloitte.com/uk/en/careers/early-careers.html",
+      "govSearchUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=Deloitte&levelIds=6&distanceType=England",
+      "historicalCycles": [
+        {
+          "year": 2025,
+          "openedMonth": 9,
+          "closedMonth": 12,
+          "openedDate": null,
+          "closedDate": null,
+          "rolling": true,
+          "confidence": "confirmed",
+          "source": "https://uk.prosple.com/graduate-employers/deloitte-uk/jobs-internships/brightstart-higher-apprenticeship"
+        },
+        {
+          "year": 2024,
+          "openedMonth": 9,
+          "closedMonth": 12,
+          "openedDate": null,
+          "closedDate": null,
+          "rolling": true,
+          "confidence": "confirmed",
+          "source": "https://uk.prosple.com/graduate-employers/deloitte-uk/jobs-internships/brightstart-higher-apprenticeship"
+        }
+      ],
+      "programs": [
+        {
+          "id": "deloitte_consulting",
+          "name": "Consulting BrightStart Higher Apprenticeship",
+          "standard": "Higher Apprenticeship",
+          "location": "Multiple UK",
+          "salary": null,
+          "duration": null,
+          "customerFacing": "client",
+          "nameConfidence": "official",
+          "sourceUrl": "https://www.brightnetwork.co.uk/graduate-jobs/deloitte/consulting-bright-start-higher-apprenticeship-2026",
+          "status": "not_open",
+          "closingDate": null,
+          "applyUrl": null,
+          "govVacancyId": null,
+          "firstSeen": null,
+          "lastSeen": null
+        },
+        {
+          "id": "deloitte_audit",
+          "name": "Audit & Assurance BrightStart Higher Apprenticeship",
+          "standard": "Higher Apprenticeship",
+          "location": "Multiple UK",
+          "salary": null,
+          "duration": null,
+          "customerFacing": "internal",
+          "nameConfidence": "official",
+          "sourceUrl": "https://www.brightnetwork.co.uk/graduate-jobs/deloitte/audit-assurance-bright-start-higher-apprenticeship-2026",
+          "status": "not_open",
+          "closingDate": null,
+          "applyUrl": null,
+          "govVacancyId": null,
+          "firstSeen": null,
+          "lastSeen": null
+        }
+      ],
+      "siteCheck": {
+        "checkedAt": "2026-08-29T23:26:59Z",
+        "reachable": true,
+        "httpStatus": 200,
+        "mentions": 1,
+        "openSignal": false,
+        "note": ""
+      }
+    },
+    {
+      "id": "ey",
+      "name": "EY",
+      "sector": "consulting",
+      "color": "#c9bd00",
+      "employerNameVariants": [
+        "Ernst & Young LLP",
+        "Ernst & Young",
+        "EY"
+      ],
+      "careerUrl": "https://www.ey.com/en_uk/careers/students",
+      "govSearchUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=EY&levelIds=6&distanceType=England",
+      "historicalCycles": [
+        {
+          "year": 2025,
+          "openedMonth": 9,
+          "closedMonth": 11,
+          "openedDate": null,
+          "closedDate": null,
+          "rolling": false,
+          "confidence": "estimated",
+          "source": null
+        },
+        {
+          "year": 2024,
+          "openedMonth": 9,
+          "closedMonth": 11,
+          "openedDate": null,
+          "closedDate": null,
+          "rolling": false,
+          "confidence": "estimated",
+          "source": null
+        }
+      ],
+      "programs": [
+        {
+          "id": "ey_business",
+          "name": "Degree Apprenticeship in Business Leadership and Management Practice",
+          "standard": "Level 6",
+          "location": "Multiple UK",
+          "salary": null,
+          "duration": "3 years",
+          "customerFacing": "client",
+          "nameConfidence": "official",
+          "sourceUrl": "https://www.apprentifinder.co.uk/employers/ey",
+          "status": "not_open",
+          "closingDate": null,
+          "applyUrl": null,
+          "govVacancyId": null,
+          "firstSeen": null,
+          "lastSeen": null
+        },
+        {
+          "id": "ey_techconsulting",
+          "name": "Degree Apprenticeship in Digital & Technology - Technology Consulting",
+          "standard": "Level 6 - BSc Digital and Technology Solutions",
+          "location": "Multiple UK",
+          "salary": null,
+          "duration": null,
+          "customerFacing": "internal",
+          "nameConfidence": "official",
+          "sourceUrl": "https://talents.studysmarter.co.uk/companies/ey/degree-apprenticeship-in-digital-technology-technology-consulting-september-2026-intake-13376491/",
+          "status": "not_open",
+          "closingDate": null,
+          "applyUrl": null,
+          "govVacancyId": null,
+          "firstSeen": null,
+          "lastSeen": null
+        }
+      ],
+      "siteCheck": {
+        "checkedAt": "2026-08-29T23:27:00Z",
+        "reachable": true,
+        "httpStatus": 200,
+        "mentions": 89,
+        "openSignal": false,
+        "note": ""
+      }
+    },
+    {
+      "id": "kpmg",
+      "name": "KPMG",
+      "sector": "consulting",
+      "color": "#00338d",
+      "employerNameVariants": [
+        "KPMG LLP",
+        "KPMG UK",
+        "KPMG"
+      ],
+      "careerUrl": "https://www.kpmgcareers.co.uk/apprentice/",
+      "govSearchUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=KPMG&levelIds=6&distanceType=England",
+      "historicalCycles": [
+        {
+          "year": 2025,
+          "openedMonth": 9,
+          "closedMonth": 12,
+          "openedDate": null,
+          "closedDate": null,
+          "rolling": true,
+          "confidence": "confirmed",
+          "source": "https://www.bestapprenticeships.com/knowledge-base/when-do-kpmg-apprenticeship-applications-open/"
+        },
+        {
+          "year": 2024,
+          "openedMonth": 9,
+          "closedMonth": 12,
+          "openedDate": null,
+          "closedDate": null,
+          "rolling": true,
+          "confidence": "confirmed",
+          "source": "https://www.bestapprenticeships.com/knowledge-base/when-do-kpmg-apprenticeship-applications-open/"
+        }
+      ],
+      "programs": [
+        {
+          "id": "kpmg_consulting",
+          "name": "Consulting Apprenticeships",
+          "standard": "Level 6",
+          "location": "Multiple UK",
+          "salary": null,
+          "duration": null,
+          "customerFacing": "client",
+          "nameConfidence": "official",
+          "sourceUrl": "https://www.kpmgcareers.co.uk/apprentice/",
+          "status": "not_open",
+          "closingDate": null,
+          "applyUrl": null,
+          "govVacancyId": null,
+          "firstSeen": null,
+          "lastSeen": null
+        },
+        {
+          "id": "kpmg_audit",
+          "name": "Audit Apprenticeships",
+          "standard": "Level 6",
+          "location": "Multiple UK",
+          "salary": null,
+          "duration": null,
+          "customerFacing": "internal",
+          "nameConfidence": "official",
+          "sourceUrl": "https://www.kpmgcareers.co.uk/apprentice/",
+          "status": "not_open",
+          "closingDate": null,
+          "applyUrl": null,
+          "govVacancyId": null,
+          "firstSeen": null,
+          "lastSeen": null
+        },
+        {
+          "id": "kpmg_taxlaw",
+          "name": "Tax & Law Apprenticeships",
+          "standard": "Level 6",
+          "location": "Multiple UK",
+          "salary": null,
+          "duration": null,
+          "customerFacing": "client",
+          "nameConfidence": "official",
+          "sourceUrl": "https://www.kpmgcareers.co.uk/apprentice/",
+          "status": "not_open",
+          "closingDate": null,
+          "applyUrl": null,
+          "govVacancyId": null,
+          "firstSeen": null,
+          "lastSeen": null
+        },
+        {
+          "id": "kpmg_tech",
+          "name": "Technology & Engineering Apprenticeships",
+          "standard": "Level 6",
+          "location": "Multiple UK",
+          "salary": null,
+          "duration": null,
+          "customerFacing": "internal",
+          "nameConfidence": "official",
+          "sourceUrl": "https://www.kpmgcareers.co.uk/apprentice/",
+          "status": "not_open",
+          "closingDate": null,
+          "applyUrl": null,
+          "govVacancyId": null,
+          "firstSeen": null,
+          "lastSeen": null
+        },
+        {
+          "id": "kpmg_business",
+          "name": "KPMG Business Services Apprenticeship",
+          "standard": "Level 6",
+          "location": "Multiple UK",
+          "salary": null,
+          "duration": "2 years",
+          "customerFacing": "internal",
+          "nameConfidence": "official",
+          "sourceUrl": "https://www.kpmgcareers.co.uk/apprentice/",
+          "status": "not_open",
+          "closingDate": null,
+          "applyUrl": null,
+          "govVacancyId": null,
+          "firstSeen": null,
+          "lastSeen": null
+        }
+      ],
+      "siteCheck": {
+        "checkedAt": "2026-08-29T23:27:02Z",
+        "reachable": true,
+        "httpStatus": 200,
+        "mentions": 61,
+        "openSignal": false,
+        "note": ""
+      }
+    },
+    {
+      "id": "accenture",
+      "name": "Accenture",
+      "sector": "consulting",
+      "color": "#a100ff",
+      "employerNameVariants": [
+        "Accenture (UK) Limited",
+        "Accenture UK",
+        "Accenture"
+      ],
+      "careerUrl": "https://www.accenture.com/gb-en/careers/local/apprenticeships",
+      "govSearchUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=Accenture&levelIds=6&distanceType=England",
+      "historicalCycles": [
+        {
+          "year": 2025,
+          "openedMonth": 9,
+          "closedMonth": 11,
+          "openedDate": null,
+          "closedDate": null,
+          "rolling": false,
+          "confidence": "estimated",
+          "source": null
+        },
+        {
+          "year": 2024,
+          "openedMonth": 9,
+          "closedMonth": 11,
+          "openedDate": null,
+          "closedDate": null,
+          "rolling": false,
+          "confidence": "estimated",
+          "source": null
+        }
+      ],
+      "programs": [
+        {
+          "id": "accenture_chartered",
+          "name": "Chartered Manager Apprenticeship",
+          "standard": "Level 6 - BSc",
+          "location": "London",
+          "salary": null,
+          "duration": null,
+          "customerFacing": "client",
+          "nameConfidence": "official",
+          "sourceUrl": "https://www.accenture.com/gb-en/careers/local/apprenticeships",
+          "status": "not_open",
+          "closingDate": null,
+          "applyUrl": null,
+          "govVacancyId": null,
+          "firstSeen": null,
+          "lastSeen": null
+        },
+        {
+          "id": "accenture_dts",
+          "name": "Digital & Technology Solutions Professional Apprenticeship",
+          "standard": "Level 6",
+          "location": "London / Multiple UK",
+          "salary": null,
+          "duration": null,
+          "customerFacing": "internal",
+          "nameConfidence": "official",
+          "sourceUrl": "https://www.accenture.com/gb-en/careers/local/apprenticeships",
+          "status": "not_open",
+          "closingDate": null,
+          "applyUrl": null,
+          "govVacancyId": null,
+          "firstSeen": null,
+          "lastSeen": null
+        },
+        {
+          "id": "accenture_ai",
+          "name": "Level 6 AI Engineer Apprenticeship",
+          "standard": "Level 6",
+          "location": "London",
+          "salary": null,
+          "duration": null,
+          "customerFacing": "internal",
+          "nameConfidence": "official",
+          "sourceUrl": "https://www.accenture.com/gb-en/careers/local/apprenticeships",
+          "status": "not_open",
+          "closingDate": null,
+          "applyUrl": null,
+          "govVacancyId": null,
+          "firstSeen": null,
+          "lastSeen": null
+        }
+      ],
+      "siteCheck": {
+        "checkedAt": "2026-08-29T23:27:03Z",
+        "reachable": true,
+        "httpStatus": 200,
+        "mentions": 54,
+        "openSignal": false,
+        "note": ""
+      }
+    }
+  ]
 }
