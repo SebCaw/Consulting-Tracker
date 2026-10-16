@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-16T19:12:28Z",
+    "lastUpdated": "2026-10-16T22:24:43Z",
     "version": 4,
     "seenVacancyIds": [],
     "newSinceLastScrape": []
@@ -129,7 +129,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-10-16T19:12:14Z",
+        "checkedAt": "2026-10-16T22:24:31Z",
         "reachable": false,
         "httpStatus": 403,
         "mentions": 0,
@@ -286,7 +286,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-10-16T19:12:16Z",
+        "checkedAt": "2026-10-16T22:24:33Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 12,
@@ -365,7 +365,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-10-16T19:12:18Z",
+        "checkedAt": "2026-10-16T22:24:34Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 82,
@@ -495,7 +495,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-10-16T19:12:20Z",
+        "checkedAt": "2026-10-16T22:24:36Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 64,
@@ -591,7 +591,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-10-16T19:12:21Z",
+        "checkedAt": "2026-10-16T22:24:37Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 54,
