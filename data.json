@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-27T13:51:59Z",
+    "lastUpdated": "2026-10-27T20:22:22Z",
     "version": 4,
     "seenVacancyIds": [
       "VAC2000059707"
@@ -144,7 +144,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-10-27T13:51:47Z",
+        "checkedAt": "2026-10-27T20:22:11Z",
         "reachable": false,
         "httpStatus": 403,
         "mentions": 0,
@@ -301,7 +301,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-10-27T13:51:49Z",
+        "checkedAt": "2026-10-27T20:22:12Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 10,
@@ -380,7 +380,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-10-27T13:51:51Z",
+        "checkedAt": "2026-10-27T20:22:14Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 82,
@@ -510,7 +510,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-10-27T13:51:52Z",
+        "checkedAt": "2026-10-27T20:22:15Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 64,
@@ -606,7 +606,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-10-27T13:51:53Z",
+        "checkedAt": "2026-10-27T20:22:16Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 54,
