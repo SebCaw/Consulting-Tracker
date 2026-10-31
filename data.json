@@ -1,26 +1,13 @@
 {
   "meta": {
-    "lastUpdated": "2026-10-30T20:18:51Z",
+    "lastUpdated": "2026-10-31T14:11:43Z",
     "version": 4,
     "seenVacancyIds": [
       "VAC2000059707"
     ],
     "newSinceLastScrape": []
   },
-  "interestListings": [
-    {
-      "id": "VAC2000059707",
-      "company": "CAPGEMINI UK PLC",
-      "title": "Digital &amp; Technology Solutions Degree Apprenticeship - Consulting - Capgemini Invent UK",
-      "standard": "Level 6",
-      "location": "Manchester (M41 7HA) and 1 other location",
-      "salary": null,
-      "category": "Consulting",
-      "closingDate": null,
-      "applyUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC2000059707",
-      "firstSeen": "2026-10-30"
-    }
-  ],
+  "interestListings": [],
   "companies": [
     {
       "id": "pwc",
@@ -144,7 +131,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-10-30T20:18:38Z",
+        "checkedAt": "2026-10-31T14:11:34Z",
         "reachable": false,
         "httpStatus": 403,
         "mentions": 0,
@@ -301,7 +288,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-10-30T20:18:39Z",
+        "checkedAt": "2026-10-31T14:11:35Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 9,
@@ -380,7 +367,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-10-30T20:18:41Z",
+        "checkedAt": "2026-10-31T14:11:37Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 82,
@@ -510,7 +497,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-10-30T20:18:42Z",
+        "checkedAt": "2026-10-31T14:11:37Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 64,
@@ -606,7 +593,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-10-30T20:18:43Z",
+        "checkedAt": "2026-10-31T14:11:39Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 54,
