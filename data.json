@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-22T21:26:59Z",
+    "lastUpdated": "2026-11-23T19:44:21Z",
     "version": 4,
     "seenVacancyIds": [
       "VAC2000059707",
@@ -19,7 +19,7 @@
       "category": "Consulting",
       "closingDate": null,
       "applyUrl": "https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC2000061779",
-      "firstSeen": "2026-11-22"
+      "firstSeen": "2026-11-23"
     }
   ],
   "companies": [
@@ -145,7 +145,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-11-22T21:26:46Z",
+        "checkedAt": "2026-11-23T19:44:06Z",
         "reachable": false,
         "httpStatus": 403,
         "mentions": 0,
@@ -302,7 +302,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-11-22T21:26:48Z",
+        "checkedAt": "2026-11-23T19:44:12Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 6,
@@ -381,7 +381,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-11-22T21:26:50Z",
+        "checkedAt": "2026-11-23T19:44:14Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 82,
@@ -511,7 +511,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-11-22T21:26:51Z",
+        "checkedAt": "2026-11-23T19:44:15Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 64,
@@ -607,7 +607,7 @@
         }
       ],
       "siteCheck": {
-        "checkedAt": "2026-11-22T21:26:52Z",
+        "checkedAt": "2026-11-23T19:44:16Z",
         "reachable": true,
         "httpStatus": 200,
         "mentions": 54,
